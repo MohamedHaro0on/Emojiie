@@ -1,0 +1,12 @@
+.Form{
+    padding : 10px 20px ; 
+    .FormControl{
+        outline : none ;
+        border : solid 1px #bbb;
+        padding : 5px;
+        border-radius : 10px;
+        width : 100% ;
+        min-height : 30px;
+        font-size : 20px ;
+    }
+}
